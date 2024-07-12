@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BStTJaiWqGV/UOaiSSrAjPCuMtYb82zravWl2nYVzeQdrCN15VfMITQ59DzyJtejpkNlDKRUPuHUMj+6Nb8Llw==",
+  "dgSpecHash": "0uMSweCwfHVy68MjjUH+0BKDf1PZ1IRXFU2MSeWLUm3uGQn6nR3cjepjQMsIPyYIj4mXyFq2ejS+OIwbuFfdnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\LSC.BookNow.Core.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

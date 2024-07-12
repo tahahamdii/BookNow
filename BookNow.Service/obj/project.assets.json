@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj",
-      "projectName": "BookNow.Core",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Service\\BookNow.Service.csproj",
+      "projectName": "BookNow.Service",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Service\\BookNow.Service.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

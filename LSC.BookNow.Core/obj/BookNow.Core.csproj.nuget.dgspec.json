@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Data\\BookNow.Data.csproj": {}
+    "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Data\\BookNow.Data.csproj": {
+    "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Data\\BookNow.Data.csproj",
-        "projectName": "BookNow.Data",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Data\\BookNow.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj",
+        "projectName": "BookNow.Core",
+        "projectPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\BookNow.Core.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\BookNow.Data\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\source\\repos\\BookNow\\LSC.BookNow.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,26 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.Extensions.Hosting.Abstractions": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
